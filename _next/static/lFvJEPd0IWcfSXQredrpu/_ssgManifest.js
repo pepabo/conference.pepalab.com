@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002F","\u002Fconferences\u002F[conferenceName]\u002Fsessions\u002F[sessionName]\u002Fspeakers\u002F[userid]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
